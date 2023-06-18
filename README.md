@@ -1,1 +1,1 @@
-# Getting started with REACT.js
+# Expense app
